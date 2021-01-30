@@ -1,0 +1,7 @@
+usb_device_interface_0_cic_vcom.c:198:6:ADC0_IRQHandler	8	static
+usb_device_interface_0_cic_vcom.c:221:6:USB_DeviceInterface0CicVcomTask	8	static
+usb_device_interface_0_cic_vcom.c:261:14:USB_DeviceInterface0CicVcomCallback	48	static
+usb_device_interface_0_cic_vcom.c:506:14:USB_DeviceInterface0CicVcomSetConfiguration	16	static
+usb_device_interface_0_cic_vcom.c:522:14:USB_DeviceInterface0CicVcomSetInterface	16	static
+usb_device_interface_0_cic_vcom.c:534:14:USB_DeviceInterface1DicVcomSetInterface	16	static
+usb_device_interface_0_cic_vcom.c:545:14:USB_DeviceInterface0CicVcomInit	16	static

@@ -1,0 +1,9 @@
+core_cm33.h:2127:22:__NVIC_EnableIRQ	16	static
+core_cm33.h:2324:22:__NVIC_SetPriority	16	static
+fsl_common.h:484:28:EnableIRQ	16	static
+fsl_lpadc.h:541:20:LPADC_EnableInterrupts	16	static
+peripherals.c:145:13:ADC0_init	8	static
+peripherals.c:216:13:CTIMER0_init	8	static
+peripherals.c:305:13:USBHSD_init	8	static
+peripherals.c:312:6:BOARD_InitPeripherals	8	static
+peripherals.c:323:6:BOARD_InitBootPeripherals	8	static
